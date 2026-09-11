@@ -43,7 +43,6 @@ With only one domain, you can create multiple different email addresses, similar
 
 ## Features
 
-- **💰 Low-Cost Usage**: No server required — deploy to Cloudflare Workers to reduce costs.
 
 - **💻 Responsive Design**: Automatically adapts to both desktop and most mobile browsers.
 
